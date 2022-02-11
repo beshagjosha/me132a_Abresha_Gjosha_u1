@@ -158,6 +158,8 @@ function updateResults (className) {
 console.log( [1,3,4,10,0,1].join() );
 console.log( [1,3,4,10,0,1].join(" - ") );
 
+
+
 /*
 
 For this part, we need an array with all the selected numbers.
